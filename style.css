@@ -1,0 +1,16 @@
+body {
+background-color: #9c764d;
+font-family: Arial, sans-serif;
+padding: 25px;
+}
+h1, h2 {
+color: #674732;
+Font-family: Georgia, serif;
+}
+p, li {
+color: #2c1917;
+Font-family: Arial, sans-serif;
+}
+a {
+color: #674732;
+}
